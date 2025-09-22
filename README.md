@@ -31,7 +31,7 @@ JavaScript – logic and interactivity
 
 ## 🚀 How to Use
 
-Click here to view the project
+<a href="https://midnight-developer-ts.github.io/roman-numeral-converter/">Click here to view the project</a>
 
 Or open index.html in your browser after downloading the repository.
 
