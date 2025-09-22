@@ -51,9 +51,13 @@ Output: 44
 
 ## 📂 Project Structure
 roman-numeral-converter/
+
 │── index.html   # main webpage
+
 │── style.css    # styling
+
 │── script.js    # conversion logic
+
 │── README.md    # project details
 
 
