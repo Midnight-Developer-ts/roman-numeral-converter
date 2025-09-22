@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.no-select {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.header-container,
+.info-container, 
+.hint-container,
+.footer-container {
+  width: 100%;
+  max-width: 600px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.footer-dev {
+  width: 100%;
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.title {
+  margin-top: 5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 20px lime;
+}
+
+.text {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  text-align: center;
+  color: white;
+}
+
+.input-container,
+.output-container {
+  width: 100%;
+  max-width: 350px;
+  min-width: 300px;
+  margin: 2rem auto;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.6rem;
+  border-radius: 5px;
+  border: 1px solid black;
+  box-shadow: 0 0 10px lime;
+  background-color: rgb(255, 255, 255, 0.3);
+}
+
+.number {
+  width: 100%;
+  max-width: 50px;
+  margin: 0;
+  padding: 0.3rem 0.5rem;
+  font-size: 0.9rem;
+  outline: none;
+  color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-shadow: 0 0 5px black;
+  box-shadow: 0 0 5px black;
+  background: rgb(255, 255, 255, 0.3)
+}
+
+.convert-btn {
+  margin: 0;
+  padding: 0.3rem 0.5rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: black;
+  border-radius: 5px;
+  border: 1px solid black;
+  box-shadow: 0 0 5px black;
+  background-color: #00ff00;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.convert-btn:hover {
+  transform: scale(0.97);
+  background-color: rgb(0, 179, 0);
+}
+
+.output {
+  width: 100%;
+  max-width: 350px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 1rem 0;
+  text-align: center;
+  color: white;
+  font-size: 1rem;
+  text-shadow: 0 0 10px black;
+}
+
+.info {
+  font-size: 0.9rem;
+  margin-top: 2rem;
+  text-align: center;
+  color: white;
+}
+
+.info-icon {
+  margin-right: 0.3rem;
+  font-size: 0.9rem;
+  transform: scale(0.9);
+  vertical-align: bottom;
+  color: white;
+  text-shadow: 0 0 10px lime;
+}
+
+.footer-dev {
+  font-size: 1rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: white;
+}
