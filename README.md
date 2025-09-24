@@ -71,4 +71,4 @@ roman-numeral-converter/
 
 ## 📸 Preview
 
-![Roman Numeral Converter Screenshot](./images/website-preview.jpeg)
+![Roman Numeral Converter Screenshot](https://raw.githubusercontent.com/Midnight-Developer-ts/roman-numeral-converter/main/images/screenshot.png)
