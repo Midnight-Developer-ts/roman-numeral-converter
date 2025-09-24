@@ -68,3 +68,6 @@ roman-numeral-converter/
 - Strengthen knowledge of loops, conditionals, and object mappings.
 
 - Build a small but functional project combining HTML, CSS, and JS.
+
+## 📸 Preview
+![Roman Numeral Converter Screenshot](./images/website-preview.jpeg)
