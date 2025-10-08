@@ -70,4 +70,4 @@ roman-numeral-converter/
 - Build a small but functional project combining HTML, CSS, and JS.
 
 ## 📸 Preview 
-![Roman Numeral Converter Screenshot](./images/website-preview.jpeg)
+![Roman Numeral Converter Project Screenshot](./images/website-preview.jpeg)
