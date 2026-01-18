@@ -62,7 +62,7 @@ roman-numeral-converter/ `root file`
 
 │── js `javascript folder`
 
-│ └── script.js `conversion logic`
+│ └── script.js `interactivity`
 
 │── LICENSE `license details`
 
@@ -89,4 +89,4 @@ This project is provided for portfolio and educational review only.
 Copying, redistribution, or commercial use is prohibited. 
 
 This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/personal-portfolio-project/blob/main/LICENSE) file for full terms.
+See the [LICENSE](https://github.com/Midnight-Developer-ts/roman-numeral-converter/blob/main/LICENSE) file for full terms.
