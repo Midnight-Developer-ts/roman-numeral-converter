@@ -1,3 +1,7 @@
+/*! Copyright © 2026 Midnight Developer (Tiffany Schuman) All Rights Reserved. 
+Licensed under the Midnight Developer Proprietary License. 
+See LICENSE for details */
+
 const convertBtn = document.getElementById("convert-btn");
 const numberInput = document.getElementById("number");
 const output = document.getElementById("output");

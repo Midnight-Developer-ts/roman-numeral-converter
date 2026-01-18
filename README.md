@@ -12,11 +12,8 @@ The project was created to practice JavaScript algorithms, conditional logic, an
 ## ✨ Features
 
 - Convert Arabic numbers (1–3999) into Roman numerals.
-
 - Input validation to prevent invalid numbers.
-
 - Simple, user-friendly design with HTML and CSS.
-
 - Interactive functionality powered by JavaScript.
 
 
@@ -31,13 +28,12 @@ JavaScript – logic and interactivity
 
 ## 🚀 How to Use
 
-<a href="https://midnight-developer-ts.github.io/roman-numeral-converter/">Click here to view the project</a>
+[`View Project`](https://midnight-developer-ts.github.io/roman-numeral-converter/)
 
-Or open index.html in your browser after downloading the repository.
-
-Enter a number between 1 and 3999.
-
-See it converted instantly to a Roman numeral.
+1. Enter a number between 1 and 3999.
+2. Press convert to convert the number.
+3. See it converted instantly to a Roman numeral.
+4. clear input to start over.
 
 
 ## 🔍 Example Usage
@@ -50,24 +46,47 @@ Output: 44
 
 
 ## 📂 Project Structure
-roman-numeral-converter/
+roman-numeral-converter/ `root file`
 
-│── index.html   # main webpage
+│── index.html `main webpage`
 
-│── style.css    # styling
+│── css `styling folder`
 
-│── script.js    # conversion logic
+│ └── style.css `styling`
 
-│── README.md    # project details
+│── images/ `image folder`
+
+│ └── website-favicon.png `favicon`
+
+│ └── website-preview.png `preview image`
+
+│── js `javascript folder`
+
+│ └── script.js `conversion logic`
+
+│── LICENSE `license details`
+
+│── README.md `project details`
 
 
 ## 📌 Learning Goals
 
 - Practice implementing algorithmic thinking in JavaScript.
-
 - Strengthen knowledge of loops, conditionals, and object mappings.
-
 - Build a small but functional project combining HTML, CSS, and JS.
+
+## 🎯 Certification Compliance
+This project fully meets all FreeCodeCamp Responsive Web Design
+Technical Documentation Page user stories and requirements.
 
 ## 📸 Preview 
 ![Roman Numeral Converter Project Screenshot](./images/website-preview.jpeg)
+
+[`View Project`](https://midnight-developer-ts.github.io/roman-numeral-converter/)
+
+## 📄 License 
+This project is provided for portfolio and educational review only. 
+Copying, redistribution, or commercial use is prohibited. 
+
+This project is licensed under a Midnight Developer Proprietary License. 
+See the [LICENSE](https://github.com/Midnight-Developer-ts/personal-portfolio-project/blob/main/LICENSE) file for full terms.
