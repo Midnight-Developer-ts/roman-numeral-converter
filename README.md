@@ -1,5 +1,4 @@
-
-# Roman Numeral Converter
+# 🔢 Roman Numeral Converter
 
 ## 📖 Overview
 This project was part of my FreeCodeCamp JavaScript Algorithms and Data Structures certification curriculum. Where I built a Roman Numeral Converter using HTML, CSS, and JavaScript. The project was created to practice JavaScript algorithms, conditional logic, and string manipulation, while also reinforcing my HTML and CSS skills for building the interface. 
@@ -15,15 +14,13 @@ The Roman Numeral Converter allows users to input a number and see its equivalen
 
 
 ## 🛠️ Built With
-HTML – structure
-
-CSS – styling
-
-JavaScript – logic and interactivity
+- HTML – structure
+- CSS – styling
+- JavaScript – logic and interactivity
 
 
 ## 🚀 How to Use
-[`View Project`](https://midnight-developer-ts.github.io/roman-numeral-converter/)
+[`View Project`](https://midnight-developer-ts.github.io/midnight-developers-roman-numeral-converter/)
 
 1. Enter a number between 1 and 3999.
 2. Press convert to convert the number.
@@ -40,7 +37,7 @@ JavaScript – logic and interactivity
 
 
 ## 📂 Project Structure
-roman-numeral-converter/ `root file`
+roman-numeral-converter/ `root folder`
 
 │── index.html `main webpage`
 
@@ -75,11 +72,11 @@ Technical Documentation Page user stories and requirements.
 ## 📸 Preview 
 ![Roman Numeral Converter Project Screenshot](./images/website-preview.jpeg)
 
-[`View Project`](https://midnight-developer-ts.github.io/roman-numeral-converter/)
+[`View Project`](https://midnight-developer-ts.github.io/midnight-developers-roman-numeral-converter/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
 This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/roman-numeral-converter/blob/main/LICENSE) file for full terms.
+See the [LICENSE](https://github.com/Midnight-Developer-ts/midnight-developers-roman-numeral-converter/blob/main/LICENSE) file for full terms.
