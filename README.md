@@ -5,19 +5,16 @@ This project was part of my FreeCodeCamp JavaScript Algorithms and Data Structur
 
 The Roman Numeral Converter allows users to input a number and see its equivalent Roman numeral representation, and vice versa. It is a web-based application that converts numbers between Arabic numerals (e.g., 1, 2, 3) and Roman numerals (e.g., I, II, III). It was a great exercise in DOM manipulation and implementing conversion algorithms.
 
-
 ## ✨ Features
 - Convert Arabic numbers (1–3999) into Roman numerals.
 - Input validation to prevent invalid numbers.
 - Simple, user-friendly design with HTML and CSS.
 - Interactive functionality powered by JavaScript.
 
-
 ## 🛠️ Built With
 - HTML – structure
 - CSS – styling
 - JavaScript – logic and interactivity
-
 
 ## 🚀 How to Use
 [`View Project`](https://midnight-developer-ts.github.io/midnight-developers-roman-numeral-converter/)
@@ -26,7 +23,6 @@ The Roman Numeral Converter allows users to input a number and see its equivalen
 2. Press convert to convert the number.
 3. See it converted instantly to a Roman numeral.
 4. clear input to start over.
-
 
 ## 🔍 Example Usage
 `Input: 36`
@@ -37,7 +33,7 @@ The Roman Numeral Converter allows users to input a number and see its equivalen
 
 
 ## 📂 Project Structure
-roman-numeral-converter/ `root folder`
+midnight-developers-roman-numeral-converter/ `root folder`
 
 │── index.html `main webpage`
 
@@ -45,7 +41,7 @@ roman-numeral-converter/ `root folder`
 
 │ └── style.css `styling`
 
-│── images/ `image folder`
+│── img/ `image folder`
 
 │ └── website-favicon.png `favicon`
 
@@ -66,11 +62,11 @@ roman-numeral-converter/ `root folder`
 - Build a small but functional project combining HTML, CSS, and JS.
 
 ## 🎯 Certification Compliance
-This project fully meets all FreeCodeCamp Responsive Web Design
-Technical Documentation Page user stories and requirements.
+This project fully meets all FreeCodeCamp JavaScript Algorithms and Data Structures 
+Roman Numeral Converter user stories and requirements.
 
 ## 📸 Preview 
-![Roman Numeral Converter Project Screenshot](./images/website-preview.jpeg)
+![Roman Numeral Converter Project Screenshot](./img/website-preview.jpeg)
 
 [`View Project`](https://midnight-developer-ts.github.io/midnight-developers-roman-numeral-converter/)
 
