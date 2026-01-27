@@ -1,4 +1,4 @@
-# 🔢 Midnight Developers Roman Numeral Converter
+# 🔢 Vynxcode's Roman Numeral Converter
 
 ## 📖 Overview
 This project was part of my FreeCodeCamp JavaScript Algorithms and Data Structures certification curriculum. Where I built a Roman Numeral Converter using HTML, CSS, and JavaScript. The project was created to practice JavaScript algorithms, conditional logic, and string manipulation, while also reinforcing my HTML and CSS skills for building the interface. 
@@ -17,7 +17,7 @@ The Roman Numeral Converter allows users to input a number and see its equivalen
 - JavaScript – logic and interactivity
 
 ## 🚀 How to Use
-[`View Project`](https://midnight-developer-ts.github.io/midnight-developers-roman-numeral-converter/)
+[`View Project`](https://vynxcode-ts.github.io/vynxcodes-roman-numeral-converter/)
 
 1. Enter a number between 1 and 3999.
 2. Press convert to convert the number.
@@ -33,7 +33,7 @@ The Roman Numeral Converter allows users to input a number and see its equivalen
 
 
 ## 📂 Project Structure
-midnight-developers-roman-numeral-converter/ `root folder`
+vynxcodes-roman-numeral-converter/ `root folder`
 
 │── index.html `main webpage`
 
@@ -43,7 +43,7 @@ midnight-developers-roman-numeral-converter/ `root folder`
 
 │── img/ `image folder`
 
-│ └── website-favicon.png `favicon`
+│ └── website-favicon.svg `favicon`
 
 │ └── website-preview.png `preview image`
 
@@ -68,11 +68,11 @@ Roman Numeral Converter user stories and requirements.
 ## 📸 Preview 
 ![Roman Numeral Converter Project Screenshot](./img/website-preview.jpeg)
 
-[`View Project`](https://midnight-developer-ts.github.io/midnight-developers-roman-numeral-converter/)
+[`View Project`](https://vynxcode-ts.github.io/vynxcodes-roman-numeral-converter/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/midnight-developers-roman-numeral-converter/blob/main/LICENSE) file for full terms.
+This project is licensed under a Vynxcode Proprietary License. 
+See the [LICENSE](https://github.com/vynxcode-ts/vynxcodes-roman-numeral-converter/blob/main/LICENSE) file for full terms.
